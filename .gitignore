@@ -1,7 +1,4 @@
 # Colab runtime artifacts and student evidence are generated locally.
-/day1_lab_images/
-/day1_lab_outputs/
-/day1-lab-outputs/
 *.zip
 *.pt
 __pycache__/
